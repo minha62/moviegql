@@ -13,8 +13,6 @@
   "author": "minha62",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^3.5.0",
-    "graphql": "^16.0.1",
     "graphql-yoga": "^1.18.3"
   },
   "devDependencies": {
