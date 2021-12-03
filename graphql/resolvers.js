@@ -1,12 +1,8 @@
-const bbirong = {
-    name: "Bbirong",
-    age: 29,
-    gender: "male"
-};
+import { people } from "./db";
 
 const resolvers = {
     Query: {
-        person:() => bbirong
+        people: () => people,
     }
 };
 
