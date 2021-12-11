@@ -13,8 +13,7 @@
   "author": "minha62",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.18.3",
-    "node-fetch": "^2.6.6"
+    "graphql-yoga": "^1.18.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
